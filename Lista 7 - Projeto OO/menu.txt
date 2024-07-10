@@ -1,0 +1,25 @@
+menu principal
+[1] - Cadastrar produto
+[2] - Consultar produtos
+[3] - Ver marcas
+[4] - Fechar o programa
+
+Menu Consultar produtos 
+[1] - Ver todos os produtos
+[2] - Ver produtos da marca
+[3] - Ver um produto
+[4] - Ver produtos com baixo estoque
+[5] - Sair
+
+Menu Ver um produto
+#Ver produto por código
+[1] - Editar dados
+[2] - Excluir produto
+[3] - Dar baixa
+[4] - Sair
+
+Menu Ver marcas
+[1] - Cadastrar uma marca
+[2] - Editar marcas
+[3] - Excluir marcas
+[4] - Sair
